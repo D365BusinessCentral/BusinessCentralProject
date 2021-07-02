@@ -1,0 +1,26 @@
+{
+  "id": "d3a3131f-c385-407c-b328-c07e64df577d",
+  "name": "BusinessCentral",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BusinessCentral.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
